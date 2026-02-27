@@ -1,0 +1,1646 @@
+[
+    {
+        "id": "1",
+        "title": "Demonstration of AI-Assisted Intent-Based Traffic Grooming in 5G Optical Access Network",
+        "DIO/URL": "https://ieeexplore.ieee.org/document/9489912",
+        "intent expression": "Optimize optical network performance, avoid traffic congestion, reduce average latency, and improve bandwidth utilization"
+    },
+    {
+        "id": "2",
+        "title": "NLP Powered Intent Based Network Management for Private 5G Networks",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2023.3265894",
+        "intent expression": "Create a slice where, in a factory environment, different production lines can be connected to a private network slice to ensure isolation and provide dedicated QoS"
+    },
+    {
+        "id": "3",
+        "title": "NLP Powered Intent Based Network Management for Private 5G Networks",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2023.3265894",
+        "intent expression": "Deploy a new network slicing service"
+    },
+    {
+        "id": "4",
+        "title": "Intent-based Service Function Chaining on ETSI NFV Platforms",
+        "DIO/URL": "https://doi.org/10.1109/NoF47743.2019.9015069",
+        "intent expression": "Add the intermediate box deep Packet Detection DPI and firewall to the router"
+    },
+    {
+        "id": "5",
+        "title": "User-driven Path Control through Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/INDIS56561.2022.00007",
+        "intent expression": "Create a path between the router and the switch"
+    },
+    {
+        "id": "6",
+        "title": "User-driven Path Control through Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/INDIS56561.2022.00007",
+        "intent expression": "Create path with  the minimum band width set to 5Mbps"
+    },
+    {
+        "id": "7",
+        "title": "User-driven Path Control through Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/INDIS56561.2022.00007",
+        "intent expression": "Create path with maximum latency set to 10ms"
+    },
+    {
+        "id": "8",
+        "title": "User-driven Path Control through Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/INDIS56561.2022.00007",
+        "intent expression": "Create path not including devices where middle box firewall is equal to IDS"
+    },
+    {
+        "id": "9",
+        "title": "User-driven Path Control through Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/INDIS56561.2022.00007",
+        "intent expression": "Create path only including devices where attribute firewall is equal to IDS"
+    },
+    {
+        "id": "10",
+        "title": "Towards a Closed-Looped Automation for Service Assurance with the DxAgent",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844116",
+        "intent expression": "Providing video streaming services to its customers"
+    },
+    {
+        "id": "11",
+        "title": "Towards a Closed-Looped Automation for Service Assurance with the DxAgent",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844116",
+        "intent expression": "build connection between the server and R3(router) such that outgoing packets go through a different path than incoming packets and the one-way delay (whatever the direction) does not exceed 50 ms"
+    },
+    {
+        "id": "12",
+        "title": "Declarative Provisioning of Virtual Network Function Chains in Intent-based Networks",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft57336.2023.10175449",
+        "intent expression": "edge2 is a 18-unit edge node with a connection to cloud1 node that has an average latency of 135ms and a bandwidth of 80Mbps。 "
+    },
+    {
+        "id": "13",
+        "title": "Declarative Provisioning of Virtual Network Function Chains in Intent-based Networks",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft57336.2023.10175449",
+        "intent expression": "Enhance the gaming service with edge privacy and Cloud request logging capabilities. "
+    },
+    {
+        "id": "14",
+        "title": "Declarative Provisioning of Virtual Network Function Chains in Intent-based Networks",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft57336.2023.10175449",
+        "intent expression": "The service must be reachable in less than 50ms from the user’s location and, to feature optionally 100Mpbs download bandwidth from the service to its Cloud backend. "
+    },
+    {
+        "id": "15",
+        "title": "Towards Intent-Based Scheduling for Performance and Security in Edge-to-Cloud Networks",
+        "DIO/URL": "https://doi.org/10.1109/ICIN60470.2024.10494432",
+        "intent expression": "constraining tenant Pods to certain regions or node types"
+    },
+    {
+        "id": "16",
+        "title": "Towards Intent-Based Scheduling for Performance and Security in Edge-to-Cloud Networks",
+        "DIO/URL": "https://doi.org/10.1109/ICIN60470.2024.10494432",
+        "intent expression": "scheduling Pods from different tenants on different nodes"
+    },
+    {
+        "id": "17",
+        "title": "Towards Intent-Based Scheduling for Performance and Security in Edge-to-Cloud Networks",
+        "DIO/URL": "https://doi.org/10.1109/ICIN60470.2024.10494432",
+        "intent expression": "scheduling Pods from different tenants on different isolated network segments"
+    },
+    {
+        "id": "18",
+        "title": "Towards Intent-Based Scheduling for Performance and Security in Edge-to-Cloud Networks",
+        "DIO/URL": "https://doi.org/10.1109/ICIN60470.2024.10494432",
+        "intent expression": "scheduling Pods with different privilege levels on different nodes"
+    },
+    {
+        "id": "19",
+        "title": "Towards Intent-Based Scheduling for Performance and Security in Edge-to-Cloud Networks",
+        "DIO/URL": "https://doi.org/10.1109/ICIN60470.2024.10494432",
+        "intent expression": "Monitoring the bandwidth/latency and security posture of the K8s cluster network topology"
+    },
+    {
+        "id": "20",
+        "title": "Intent-based zero-touch service chaining layer for software-defined edge cloud networks",
+        "DIO/URL": "https://doi.org/10.1016/j.comnet.2022.109034",
+        "intent expression": "set a connection as a high availability network service. "
+    },
+    {
+        "id": "21",
+        "title": "Intent-based zero-touch service chaining layer for software-defined edge cloud networks",
+        "DIO/URL": "https://doi.org/10.1016/j.comnet.2022.109034",
+        "intent expression": "always maintain high quality of service and high bandwidth for gold level users"
+    },
+    {
+        "id": "22",
+        "title": "Intent-based zero-touch service chaining layer for software-defined edge cloud networks",
+        "DIO/URL": "https://doi.org/10.1016/j.comnet.2022.109034",
+        "intent expression": "Set a path between the endpoints provided in the request message that traverses a given number of network functions"
+    },
+    {
+        "id": "23",
+        "title": "Intent-based zero-touch service chaining layer for software-defined edge cloud networks",
+        "DIO/URL": "https://doi.org/10.1016/j.comnet.2022.109034",
+        "intent expression": "all the traffic originating at a node with IP address 10.0.3.1 and terminating at a destination node with IP address 10.0.11.1 should pass through a network function chain made by a firewall and a DPI"
+    },
+    {
+        "id": "24",
+        "title": "SDN Heading North: Towards a Declarative Intent-based Northbound Interface",
+        "DIO/URL": "https://doi.org/10.23919/CNSM50824.2020.9269118",
+        "intent expression": "I want caching for content X to handle 20 GB/min"
+    },
+    {
+        "id": "25",
+        "title": "Service Graphs Generation in Intent-Based Networks",
+        "DIO/URL": "https://doi.org/10.1109/CCNC51664.2024.10454658",
+        "intent expression": "I would like to have a holographic communication between Concordia University and Ericsson and also would like to store it"
+    },
+    {
+        "id": "26",
+        "title": "Reactive configuration updating for Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/ICOIN.2017.7899484",
+        "intent expression": "restrict network bandwidth at a certain time"
+    },
+    {
+        "id": "27",
+        "title": "Reactive configuration updating for Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/ICOIN.2017.7899484",
+        "intent expression": "If excessive bandwidth usage is detected, the system restricts the bandwidth between hosts A and B"
+    },
+    {
+        "id": "28",
+        "title": "Reactive configuration updating for Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/ICOIN.2017.7899484",
+        "intent expression": "Use VLAN to connect hosts 10.0.0.12 and 10.1.0.15"
+    },
+    {
+        "id": "29",
+        "title": "Reactive configuration updating for Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/ICOIN.2017.7899484",
+        "intent expression": "If the bandwidth usage of line c1 exceeds 80%, the video conferencing traffic passes through line c2"
+    },
+    {
+        "id": "30",
+        "title": "Intent-based cloud service management",
+        "DIO/URL": "https://doi.org/10.1109/ICIN.2018.8401600",
+        "intent expression": "Start a web service that can handle 1000 transactions per second with high levels of reliability and security"
+    },
+    {
+        "id": "31",
+        "title": "Creating trust in automation in intent-based mobile network management",
+        "DIO/URL": "https://doi.org/10.1109/ICIN48450.2020.9059450",
+        "intent expression": "Improve mobility robustness at the cell edge at location L"
+    },
+    {
+        "id": "32",
+        "title": "Towards Crossfire Distributed Denial of Service Attack Protection Using Intent-Based Moving Target Defense Over Software-Defined Networking",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2021.3103845",
+        "intent expression": "automatic recompilation of intents and network reconfiguration for restoring the required connectivity"
+    },
+    {
+        "id": "33",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "Inspect the traffic for the dorm"
+    },
+    {
+        "id": "34",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "Blocking traffic from YouTube"
+    },
+    {
+        "id": "35",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "blocking traffic from the dormitory "
+    },
+    {
+        "id": "36",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "Blocking traffic from Twitter"
+    },
+    {
+        "id": "37",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "Block incoming traffic for tenant 10.0.1.20"
+    },
+    {
+        "id": "38",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "reroute traffic from the internet to an inspection middlebox"
+    },
+    {
+        "id": "39",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "limit the bandwidth of guest users using torrent applications"
+    },
+    {
+        "id": "40",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "establish a data usage quota for students in the university dorms"
+    },
+    {
+        "id": "41",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "block a specific website for students in the labs"
+    },
+    {
+        "id": "42",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "add a daily temporal bandwidth throttle to the server racks from 4 pm to7pm"
+    },
+    {
+        "id": "43",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "Limit students to a maximum download capacity of 10GB per week in the dormitory"
+    },
+    {
+        "id": "44",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "\r\nAdd firewalls and intrusion detection for client B from the gateway to the back end with at least 100mbps bandwidth and HTTPS only allowed"
+    },
+    {
+        "id": "45",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "H323 video conferencing was allowed by the University firewall"
+    },
+    {
+        "id": "46",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "MSN audio and video communications were not allowed by the University firewall"
+    },
+    {
+        "id": "47",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "student quota dorms 10GB week"
+    },
+    {
+        "id": "48",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "limit students to 10GB maximum download per week in dorms"
+    },
+    {
+        "id": "49",
+        "title": "Deploying Natural Language Intents with Lumi",
+        "DIO/URL": "https://doi.org/10.1145/3342280.3342315",
+        "intent expression": "student quota dorms 10GB week"
+    },
+    {
+        "id": "50",
+        "title": "On helping users in writing network slice intents through NLP and User Profiling",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft57336.2023.10175400",
+        "intent expression": "Set-up an SDN-based slice where reliable traffic for Gold customers flows from the gateway to the application server with at least 5Mbps of bandwidth through an SDN mesh topology composed of 5 switches and 2 VFs and where V F1 is connected to Switch 1 and V F2 is connected to Switch 3"
+    },
+    {
+        "id": "51",
+        "title": "On helping users in writing network slice intents through NLP and User Profiling",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft57336.2023.10175400",
+        "intent expression": "Set-up an SDN-based slice where 1:1 reliability scheme is applied to flow traffic with expedited forwarding scheme from an IoT gateway VF to a video server VF with at least totally guaranteed 5Mbps of throughput"
+    },
+    {
+        "id": "52",
+        "title": "Intent-Based Routing Policy Optimization in SD-WAN",
+        "DIO/URL": "https://doi.org/10.1109/ICC45855.2022.9838293",
+        "intent expression": "Minimize the router's MLU(maximum link utilization)"
+    },
+    {
+        "id": "53",
+        "title": "Intent-Based Routing Policy Optimization in SD-WAN",
+        "DIO/URL": "https://doi.org/10.1109/ICC45855.2022.9838293",
+        "intent expression": "Minimize average latency and reduce latency beyond SLA requirements"
+    },
+    {
+        "id": "54",
+        "title": "Intent-based multi-agent reinforcement learning for service assurance in cellular networks",
+        "DIO/URL": "https://doi.org/10.1109/GLOBECOM48099.2022.10001426",
+        "intent expression": "I want a conversational video service where 80% of users have a QoE of at least 4.0"
+    },
+    {
+        "id": "55",
+        "title": "A Quality of Experience Management Method For Intent-Based Software-Defined Networks",
+        "DIO/URL": "https://doi.org/10.1109/CADSM52681.2021.9385250",
+        "intent expression": "Guarantee the quality of services such as VoIP and video streaming in real time"
+    },
+    {
+        "id": "56",
+        "title": "Intent-Based Routing Policy Optimization in SD-WAN",
+        "DIO/URL": "https://doi.org/10.1109/ICC45855.2022.9838293",
+        "intent expression": "Maximize SLA satisfaction for process groups"
+    },
+    {
+        "id": "57",
+        "title": "Intent-based cognitive closed-loop management with built-in conflict handling",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844074",
+        "intent expression": "For at least 80% of end users using conversational video services, the QoE should be greater than 4.4, with a maximum bit rate (MBR) of 10 Mbit/s per user"
+    },
+    {
+        "id": "58",
+        "title": "Intent-based cognitive closed-loop management with built-in conflict handling",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844074",
+        "intent expression": "UE using URLLC services has a maximum latency of 50 milliseconds, a maximum packet loss rate of 1%, and an MBR of 10 Mbps"
+    },
+    {
+        "id": "59",
+        "title": "Intent-based cognitive closed-loop management with built-in conflict handling",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844074",
+        "intent expression": "The MBR for all elements of the object should be set to 10 Mbit/s"
+    },
+    {
+        "id": "60",
+        "title": "Intent-based network slicing for SDN vertical services with assurance: Context, design and preliminary experiments",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2022.12.033",
+        "intent expression": "always maintain high quality of service and high bandwidth for gold level users"
+    },
+    {
+        "id": "61",
+        "title": "Intent-based network slicing for SDN vertical services with assurance: Context, design and preliminary experiments",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2022.12.033",
+        "intent expression": "set a connection as a high availability network service"
+    },
+    {
+        "id": "62",
+        "title": "Intent-based network slicing for SDN vertical services with assurance: Context, design and preliminary experiments",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2022.12.033",
+        "intent expression": "Set-up an SDN-based slice where reliable traffic for Gold customers flows from the gateway to the server with at least 5mbps of bandwidth through an SDN mesh topology composed of 3 switches and 2 VFs and where VF_1 is connected to Switch 1 and VF_2 is connected to Switch 3"
+    },
+    {
+        "id": "63",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Route packets between host 1 and host 2 through a firewall"
+    },
+    {
+        "id": "64",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Limit the rate between host 1 and host 2 to 100 Mbps"
+    },
+    {
+        "id": "65",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "I want a connection from business department to department with 50ms and high bandwidth,firewal,IDS,NAT"
+    },
+    {
+        "id": "66",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "l want a connection with hieh bandwidth ,low latency and put a frewall"
+    },
+    {
+        "id": "67",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "During business hours from 9 a.m. to 5 p.m., Alice's traffic is routed to Bob with a bandwidth of 500 Mbps and a latency of less than 100 milliseconds through firewalls and IP encryption"
+    },
+    {
+        "id": "68",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Create two isolated and secure connections between Branch US-West and Branch US-East. The first connection will use the business network during working hours, with a bandwidth of 1 Gbps and a latency of less than 100 milliseconds. The second connection will use the public Internet outside of working hours, with a bandwidth of 100 Mbps and a latency of less than 400 milliseconds"
+    },
+    {
+        "id": "69",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Connect endpoint A10.0.1.12 to endpoint B10.2.0.15 with high reliability"
+    },
+    {
+        "id": "70",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Connect endpoint A192.168.1.20 to endpoint B192.168.2.20"
+    },
+    {
+        "id": "71",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Create isolated and secure connections between Branch US-West and Branch US-East"
+    },
+    {
+        "id": "72",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "All traffic to the public Internet should be encrypted"
+    },
+    {
+        "id": "73",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Route computer 10.0.5.20 traffic through the firewall"
+    },
+    {
+        "id": "74",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "IP10.0.1.32 is allowed to access server 10.2.1.21"
+    },
+    {
+        "id": "75",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Node 10.0.2.152 should route traffic to node 10.1.2.52 with a maximum delay of 2 ms"
+    },
+    {
+        "id": "76",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Alice in the finance department requests that all emails sent to any other department be encrypted"
+    },
+    {
+        "id": "77",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "My server application should be able to handle at least 10,000 HTTP requests and a minimum bandwidth of 1 Gbps"
+    },
+    {
+        "id": "78",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Keep CPU utilization in each data transfer node below 80%"
+    },
+    {
+        "id": "79",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "The link utilization of each link should be lower than 70%"
+    },
+    {
+        "id": "80",
+        "title": "A Survey on Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/COMST.2022.3215919",
+        "intent expression": "Users in the finance department request highly secure data exchange"
+    },
+    {
+        "id": "81",
+        "title": "LossLeaP: Learning to Predict for Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/INFOCOM48880.2022.9796918",
+        "intent expression": "ensure high reliability to all Twitch traffic streaming from the Fusion Arena in Philadelphia in the next hour"
+    },
+    {
+        "id": "82",
+        "title": "Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks",
+        "DIO/URL": "https://doi.org/10.3390/s24030783",
+        "intent expression": "Ensure the deployment of the network slice meets the specified service-level agreement (SLA) with regard to latency, bandwidth, and reliability"
+    },
+    {
+        "id": "83",
+        "title": "Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks",
+        "DIO/URL": "https://doi.org/10.3390/s24030783",
+        "intent expression": "\r\nAssign the highest priority to critical application traffic, ensuring low-latency and guaranteed bandwidth, while maintaining a minimum level of service for standard traffic\r\n"
+    },
+    {
+        "id": "84",
+        "title": "Infrastructure-Wide and Intent-Based Networking Dataset for 5G-and-beyond AI-Driven Autonomous Networks",
+        "DIO/URL": "https://doi.org/10.3390/s24030783",
+        "intent expression": "Eliminate any traffic flow exhibiting malicious behaviour or unauthorised access attempts, without disrupting legitimate network traffic"
+    },
+    {
+        "id": "85",
+        "title": "Provenance for Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft48620.2020.9165519",
+        "intent expression": "allow communication between hosts h1 192.168.1.2 and 192.168.2.15"
+    },
+    {
+        "id": "86",
+        "title": "Provenance for Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft48620.2020.9165519",
+        "intent expression": "allow hosts A 192.168.2.14 and B 192.168.5.2 to communicate with bandwidth capacity 20Mps"
+    },
+    {
+        "id": "87",
+        "title": "Intent-based service management for heterogeneous software-defined infrastructure domains",
+        "DIO/URL": "https://doi.org/10.1002/nem.2051",
+        "intent expression": "allow web traffic to web server end point group"
+    },
+    {
+        "id": "88",
+        "title": "Intent-based service management for heterogeneous software-defined infrastructure domains",
+        "DIO/URL": "https://doi.org/10.1002/nem.2051",
+        "intent expression": "connect endpoint 192.168.3.12 to endpoint 192.1468.1.112 redirecting through C"
+    },
+    {
+        "id": "89",
+        "title": "Intent-based service management for heterogeneous software-defined infrastructure domains",
+        "DIO/URL": "https://doi.org/10.1002/nem.2051",
+        "intent expression": "connect endpoint 192.168.1.1 to endpoints 192.168.1.25 and 192.168.2.42"
+    },
+    {
+        "id": "90",
+        "title": "A declarative reasoning approach to conflict management in Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.1109/ICIN60470.2024.10494474",
+        "intent expression": "a silver user is entitled to a maximum of 100 GB of occupiable space on infrastructure nodes and up to 100Mbps bandwidth"
+    },
+    {
+        "id": "91",
+        "title": "Mind the Semantic Gap: Policy Intent Inference from Network Metadata",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft51509.2021.9492552",
+        "intent expression": "Allow all traffic from GroupA to GroupB。 Deny all traffic between visitor-area to server-group"
+    },
+    {
+        "id": "92",
+        "title": "Mind the Semantic Gap: Policy Intent Inference from Network Metadata",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft51509.2021.9492552",
+        "intent expression": "traffic is blocked from anywhere to servergroup subnets"
+    },
+    {
+        "id": "93",
+        "title": "Mind the Semantic Gap: Policy Intent Inference from Network Metadata",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft51509.2021.9492552",
+        "intent expression": "Allow all TCP traffic from GroupA to GroupB"
+    },
+    {
+        "id": "94",
+        "title": "Mind the Semantic Gap: Policy Intent Inference from Network Metadata",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft51509.2021.9492552",
+        "intent expression": "Block all traffic from visitor-group to server-group-A"
+    },
+    {
+        "id": "95",
+        "title": "Chat-IBN-RASA: Building an Intent Translator for Packet-Optical Networks based on RASA",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft57336.2023.10175491",
+        "intent expression": "connecting sites 192.168.2.10 and 192.168.1.25, the link availability  should reach 99.98% and the lightpath data rate should reach 600G"
+    },
+    {
+        "id": "96",
+        "title": "Building a Comprehensive Intent-Based Networking Framework: A Practical Approach from Design Concepts to Implementation",
+        "DIO/URL": "https://doi.org/10.1007/s10922-024-09819-7",
+        "intent expression": "I need to lease a line from Campus 10.0.1.23 to Cloud 10.0.1.25,maximum 8G bandwidth."
+    },
+    {
+        "id": "97",
+        "title": "From Category Theory to Functional Programming: A Formal Representation of Intent",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844061",
+        "intent expression": "Deploy low-latency service voice calls"
+    },
+    {
+        "id": "98",
+        "title": "From Category Theory to Functional Programming: A Formal Representation of Intent",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844061",
+        "intent expression": "Deploy the Web server and deploy the firewall"
+    },
+    {
+        "id": "99",
+        "title": "From Category Theory to Functional Programming: A Formal Representation of Intent",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844061",
+        "intent expression": "Deploy low-latency service video conferencing and activate firewalls between 8 a.m. and 10 a.m"
+    },
+    {
+        "id": "100",
+        "title": "From Category Theory to Functional Programming: A Formal Representation of Intent",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844061",
+        "intent expression": "Deploy service web browsing and activate firewall"
+    },
+    {
+        "id": "101",
+        "title": "From Category Theory to Functional Programming: A Formal Representation of Intent",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft54395.2022.9844061",
+        "intent expression": "Deploy a protected HTTP server"
+    },
+    {
+        "id": "102",
+        "title": "Intent-Based Networking for the Enterprise— A Modern Network Architectur",
+        "DIO/URL": "https://doi.org/10.1145/3538513",
+        "intent expression": "traffic from IoT devices should be virtually separated from engineering databases"
+    },
+    {
+        "id": "103",
+        "title": "Intent-Based Networking for the Enterprise— A Modern Network Architectur",
+        "DIO/URL": "https://doi.org/10.1145/3538513",
+        "intent expression": "Group printers and scanners into group ‘PrinterGroup’ and assign email servers to group ‘EmailServerGroup"
+    },
+    {
+        "id": "104",
+        "title": "Intent-Based Networking for the Enterprise— A Modern Network Architectur",
+        "DIO/URL": "https://doi.org/10.1145/3538513",
+        "intent expression": "Create a policy to allow ‘Printer Group’ to communicate with ‘EmailServerGroup’"
+    },
+    {
+        "id": "105",
+        "title": "Intent-Based Networking for the Enterprise— A Modern Network Architectur",
+        "DIO/URL": "https://doi.org/10.1145/3538513",
+        "intent expression": "Create a policy to deny ‘Printer Group’ to communicate with any other endpoint groups"
+    },
+    {
+        "id": "106",
+        "title": "Intent-Based Networking for the Enterprise— A Modern Network Architectur",
+        "DIO/URL": "https://doi.org/10.1145/3538513",
+        "intent expression": "All net work elements must run certified software images"
+    },
+    {
+        "id": "107",
+        "title": "Intent-Based Networking for the Enterprise— A Modern Network Architectur",
+        "DIO/URL": "https://doi.org/10.1145/3538513",
+        "intent expression": "Flag any policy violations to the operator"
+    },
+    {
+        "id": "108",
+        "title": "Intent-Based Networking for the Enterprise— A Modern Network Architectur",
+        "DIO/URL": "https://doi.org/10.1145/3538513",
+        "intent expression": "Monitor traffic to and from the ‘PrinterGroup’ to ensure that the policy is adhered to by the network"
+    },
+    {
+        "id": "109",
+        "title": "Customer-Oriented Quality of Service Management Method for the Future Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.3390/app10228223",
+        "intent expression": "Traffic generated by medical sensors has a higher priority than traffic from artesian devices, but the latter requires a lower maximum latency"
+    },
+    {
+        "id": "110",
+        "title": "Customer-Oriented Quality of Service Management Method for the Future Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.3390/app10228223",
+        "intent expression": "The default throughput for local networks is set to 100 Mbps, and for global networks (between routers), the default is set to 1000 Mbps"
+    },
+    {
+        "id": "111",
+        "title": "Customer-Oriented Quality of Service Management Method for the Future Intent-Based Networking",
+        "DIO/URL": "https://doi.org/10.3390/app10228223",
+        "intent expression": "When there are multiple routes from network 1 to network 2, real-time traffic is transmitted over the path with the least delay"
+    },
+    {
+        "id": "112",
+        "title": "VINIA: Voice-Enabled Intent-Based Networking for Industrial Automation⋆",
+        "DIO/URL": "https://doi.org/10.2298/CSIS230213002B",
+        "intent expression": "Create a voice service for users 1 and 6. The bandwidth of the network must reach 4000 Mbits/sec"
+    },
+    {
+        "id": "113",
+        "title": "Toward Intent-Based Network Automation for Smart Environments: A Healthcare 4.0 Use Case",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2023.3338189",
+        "intent expression": "Only doctors and nurses can see patients' electronic medical records, No other personnel can see it"
+    },
+    {
+        "id": "114",
+        "title": "Toward Intent-Based Network Automation for Smart Environments: A Healthcare 4.0 Use Case",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2023.3338189",
+        "intent expression": "Ensure resilient operation for device network connectivity"
+    },
+    {
+        "id": "115",
+        "title": "Toward Intent-Based Network Automation for Smart Environments: A Healthcare 4.0 Use Case",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2023.3338189",
+        "intent expression": "Patients and visitors have access to the internet but are restricted from connecting to sensitive data sources"
+    },
+    {
+        "id": "116",
+        "title": "Toward Intent-Based Network Automation for Smart Environments: A Healthcare 4.0 Use Case",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2023.3338189",
+        "intent expression": "We need a strong connection in chamber 1 to allow for remote robot-assisted surgery"
+    },
+    {
+        "id": "117",
+        "title": "Supporting Beyond 5G Applications by Coordinating AI-based Intent Operation. An Example for Multilayer Metro Networks",
+        "DIO/URL": "https://doi.org/10.1109/ECOC48923.2020.9333357",
+        "intent expression": "operates on a service for a drone (mobile) application to captures video and requires high bitrate with low latency to a metro datacenter"
+    },
+    {
+        "id": "118",
+        "title": "Supporting Beyond 5G Applications by Coordinating AI-based Intent Operation. An Example for Multilayer Metro Networks",
+        "DIO/URL": "https://doi.org/10.1109/ECOC48923.2020.9333357",
+        "intent expression": "Ensure TSN connection between Customer A's two plant networks at Sites 1 and 2 (A1-A2)"
+    },
+    {
+        "id": "119",
+        "title": "Network Assurance in Intent-Based Networking Data Centers with Machine Learning Techniques",
+        "DIO/URL": "https://doi.org/10.23919/CNSM52442.2021.9615580",
+        "intent expression": "for traffic that require NFV service chaining, limit the max load of nodes below 50% and the max load of links below 70%"
+    },
+    {
+        "id": "120",
+        "title": "IBCS: Intent-Based Cloud Services for Security Applications",
+        "DIO/URL": "https://doi.org/10.1109/MCOM.001.1900476",
+        "intent expression": "Delete employees' SNS traffic during work hours"
+    },
+    {
+        "id": "121",
+        "title": "Intent Expression Through Natural Language Processing in an Enterprise Network",
+        "DIO/URL": "https://doi.org/10.1109/HPSR57248.2023.10148046",
+        "intent expression": "Building A needs to be connected to Building B with high bandwidth and secure communication by default"
+    },
+    {
+        "id": "122",
+        "title": "Intent Expression Through Natural Language Processing in an Enterprise Network",
+        "DIO/URL": "https://doi.org/10.1109/HPSR57248.2023.10148046",
+        "intent expression": "Send messages to Bob using an FTP application over TCP"
+    },
+    {
+        "id": "123",
+        "title": "Intent Expression Through Natural Language Processing in an Enterprise Network",
+        "DIO/URL": "https://doi.org/10.1109/HPSR57248.2023.10148046",
+        "intent expression": "Create a secure connection between the hardware (HW) and software (SW) departments"
+    },
+    {
+        "id": "124",
+        "title": "Intent Expression Through Natural Language Processing in an Enterprise Network",
+        "DIO/URL": "https://doi.org/10.1109/HPSR57248.2023.10148046",
+        "intent expression": "Allow/block a specific port number 58 between the IP addresses of two groups"
+    },
+    {
+        "id": "125",
+        "title": "Intent Expression Through Natural Language Processing in an Enterprise Network",
+        "DIO/URL": "https://doi.org/10.1109/HPSR57248.2023.10148046",
+        "intent expression": "Send messages to Alice over TCP using an FTP application with a latency of less than 400 ms and a bandwidth of at least 60 Mbps"
+    },
+    {
+        "id": "126",
+        "title": "Intent Expression Through Natural Language Processing in an Enterprise Network",
+        "DIO/URL": "https://doi.org/10.1109/HPSR57248.2023.10148046",
+        "intent expression": "Use FTP to transfer files to business departments at high speed, with a latency of less than 30ms and a bandwidth of at least 400Mbps"
+    },
+    {
+        "id": "127",
+        "title": "Contradiction Management in Intent-driven Cognitive Autonomous RAN",
+        "DIO/URL": "https://doi.org/10.23919/IFIPNetworking55013.2022.9829768",
+        "intent expression": "Increase handover success to 30% and reduce load by Mobility robustness optimization (MRO) and mobility load balancing (MLB)"
+    },
+    {
+        "id": "128",
+        "title": "Enabling intent to configure scientific networks for high performance demands",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2017.04.020",
+        "intent expression": "Traffic between 10.0.0.1 and 10.0.0.2 is allowed"
+    },
+    {
+        "id": "129",
+        "title": "Enabling intent to configure scientific networks for high performance demands",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2017.04.020",
+        "intent expression": "Bob connects to Alice with 10 GB from 9 to 10 pm"
+    },
+    {
+        "id": "130",
+        "title": "Enabling intent to configure scientific networks for high performance demands",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2017.04.020",
+        "intent expression": "Connect server A to B with a route across switch 22"
+    },
+    {
+        "id": "131",
+        "title": "Enabling intent to configure scientific networks for high performance demands",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2017.04.020",
+        "intent expression": "Set up a high-bandwidth path between a DoE lab and University campus"
+    },
+    {
+        "id": "132",
+        "title": "Enabling intent to configure scientific networks for high performance demands",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2017.04.020",
+        "intent expression": "connect from LBL to ANL,bandwidth requirements Maximum 50 Gb/s"
+    },
+    {
+        "id": "133",
+        "title": "Enabling intent to configure scientific networks for high performance demands",
+        "DIO/URL": "https://doi.org/10.1016/j.future.2017.04.020",
+        "intent expression": "transfer files from Brookhaven to CERN，nolimit bandwidth demands start time 2017-03-3-12.00.00,stop time 2017-02-20-12.00.00"
+    },
+    {
+        "id": "134",
+        "title": "Towards a Self-Driving Management System for the Automated Realization of Intents",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2021.3129990",
+        "intent expression": "When the network is congested and the packet loss is greater than 5%, load balancing is performed"
+    },
+    {
+        "id": "135",
+        "title": "Towards a Self-Driving Management System for the Automated Realization of Intents",
+        "DIO/URL": "https://doi.org/10.1109/ACCESS.2021.3129990",
+        "intent expression": "Minimizing maximum link utilization subject to EDGE links having upstream bound of 45% and CORE links upper bound of 70% utilization"
+    },
+    {
+        "id": "136",
+        "title": "Refining Network Intents for Self-Driving Networks",
+        "DIO/URL": "https://doi.org/10.1145/3310165.3310173",
+        "intent expression": "Please add a firewall for the backend"
+    },
+    {
+        "id": "137",
+        "title": "Refining Network Intents for Self-Driving Networks",
+        "DIO/URL": "https://doi.org/10.1145/3310165.3310173",
+        "intent expression": "Add irewall and intrusion detection from gateway to backend for client B, with latency less than 10ms and 100mbps of bandwidth, and allow HTTPS only, everyday from 09:00 to 18:00"
+    },
+    {
+        "id": "138",
+        "title": "Refining Network Intents for Self-Driving Networks",
+        "DIO/URL": "https://doi.org/10.1145/3310165.3310173",
+        "intent expression": "Please add a firewall and an IDS from Iperf client to server"
+    },
+    {
+        "id": "139",
+        "title": "To All Intents and Purposes: Towards Flexible Intent Expression",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft51509.2021.9492554",
+        "intent expression": "redirect flows between h110.0.2.1 and h710.2.0.7, using s1, s2 and s12"
+    },
+    {
+        "id": "140",
+        "title": "To All Intents and Purposes: Towards Flexible Intent Expression",
+        "DIO/URL": "https://doi.org/10.1109/NetSoft51509.2021.9492554",
+        "intent expression": "reroute traffic between h1 10.0.2.1 and h7 10.2.0.7, through s1,s2, and s12"
+    },
+    {
+        "id": "141",
+        "title": "Demonstration of Intent Defined Optical Network: Toward Artificial Intelligence-Based Optical Network Automation",
+        "DIO/URL": "https://doi.org/10.1109/IWCMC48107.2020.9148441",
+        "intent expression": "Build a connection to a highperformance computing center"
+    },
+    {
+        "id": "142",
+        "title": "Emergence: An Intent Fulfillment System",
+        "DIO/URL": "https://doi.org/10.1109/MCOM.001.2300270",
+        "intent expression": "create 1 VM in Domain1"
+    },
+    {
+        "id": "143",
+        "title": "Emergence: An Intent Fulfillment System",
+        "DIO/URL": "https://doi.org/10.1109/MCOM.001.2300270",
+        "intent expression": "Build a load balancer service on a small vm for all application servers in Domain 1, with default image in Domain 1, and schedule daily health check every hour, from 9am to 9pm"
+    },
+    {
+        "id": "144",
+        "title": "KID: Knowledge Graph-Enabled Intent-Driven Network with Digital Twin",
+        "DIO/URL": "https://doi.org/10.1109/APCC55198.2022.9943779",
+        "intent expression": "establish a reassurance-level voice service from A to B"
+    },
+    {
+        "id": "145",
+        "title": "KID: Knowledge Graph-Enabled Intent-Driven Network with Digital Twin",
+        "DIO/URL": "https://doi.org/10.1109/APCC55198.2022.9943779",
+        "intent expression": "Transmit an important video service from Xian user A to Beijing user B, the time requirement is from 10:30 on June 5, 2020, to 12:30 on June 5, 2020"
+    },
+    {
+        "id": "146",
+        "title": "Intent-driven cloud resource design framework to meet cloud performance requirements and its application to a cloud-sensor system",
+        "DIO/URL": "https://doi.org/10.1186/s13677-021-00242-w",
+        "intent expression": "A web service with high levels of security andavailability that could process 10000 requests perminutes with latency no longer than 3 seconds"
+    },
+    {
+        "id": "147",
+        "title": "Intent-driven cloud resource design framework to meet cloud performance requirements and its application to a cloud-sensor system",
+        "DIO/URL": "https://doi.org/10.1186/s13677-021-00242-w",
+        "intent expression": "Limit resource usage within VMS to 50% to 80%"
+    },
+    {
+        "id": "148",
+        "title": "SMART Intent-Driven Network Management",
+        "DIO/URL": "https://doi.org/10.1109/MCOM.002.2200119",
+        "intent expression": "Transfer a common-level video service from user A in Beijing to user B in Nanjing while constraining the execution time of the intent"
+    },
+    {
+        "id": "149",
+        "title": "SMART Intent-Driven Network Management",
+        "DIO/URL": "https://doi.org/10.1109/MCOM.002.2200119",
+        "intent expression": "transfer files from California to Columbia now"
+    },
+    {
+        "id": "150",
+        "title": "Full-Life Cycle Intent-Driven Network Verification: Challenges and Approaches",
+        "DIO/URL": "https://doi.org/10.1109/MNET.124.2200127",
+        "intent expression": "To establish a high-speed link from node A to node B"
+    },
+    {
+        "id": "151",
+        "title": "ASSL as an Intent Expression Language for Autonomic Intent-Driven Networking",
+        "DIO/URL": "10.23919/CNSM59352.2023.10327860",
+        "intent expression": "Always maintain a high quality of service and high bandwidth for gold-level subscribers"
+    },
+    {
+        "id": "152",
+        "title": "A Brief Survey and Implementation on Refinement for Intent-Driven Networking",
+        "DIO/URL": "https://doi.org/10.1109/MNET.001.2100194",
+        "intent expression": "From Beijing user WWQ to Nanjing user Al256, select a highest link for data service, at 2020-12-12-20:00-2020-12-12-20:20"
+    },
+    {
+        "id": "153",
+        "title": "A Brief Survey and Implementation on Refinement for Intent-Driven Networking",
+        "DIO/URL": "https://doi.org/10.1109/MNET.001.2100194",
+        "intent expression": "Please establish a connection from device A to device B now"
+    },
+    {
+        "id": "154",
+        "title": "Use Cases and Practices for Intent-Based Networking",
+        "DIO/URL": "draft-kdj-nmrg-ibn-usecases-01 - Use Cases and Practices for Intent-Based Networking (ietf.org)",
+        "intent expression": "Transfer a common-level video service from user A in Beijing to user B in Nanjing while constraining the execution time of the intent"
+    },
+    {
+        "id": "155",
+        "title": "Use Cases and Practices for Intent-Based Networking",
+        "DIO/URL": "draft-kdj-nmrg-ibn-usecases-01 - Use Cases and Practices for Intent-Based Networking (ietf.org)",
+        "intent expression": "defense against a new security attack"
+    },
+    {
+        "id": "156",
+        "title": "Use Cases and Practices for Intent-Based Networking",
+        "DIO/URL": "draft-kdj-nmrg-ibn-usecases-01 - Use Cases and Practices for Intent-Based Networking (ietf.org)",
+        "intent expression": "action for handling computing and communication resources"
+    },
+    {
+        "id": "157",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Steer networking traffic originating from endpoints in one geography away from a second geography, unless the destination lies in that second geography"
+    },
+    {
+        "id": "158",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Avoid routing networking traffic originating from a given set of endpoints (or associated with a given customer) through a particular vendor's equipment, even if this occurs at the expense of reduced service levels"
+    },
+    {
+        "id": "159",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Maximize network utilization even if it means trading off service levels (such as latency, loss) unless service levels have deteriorated 20% or more from their historical mean"
+    },
+    {
+        "id": "160",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Ensure VPN services have path protection at all times for all paths"
+    },
+    {
+        "id": "161",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Generate in situ Operations, Administration, and Maintenance (OAM) data and network telemetry for later offline analysis whenever significant fluctuations in latency across a path are observed"
+    },
+    {
+        "id": "162",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Route traffic in a Space Information Network in a way that minimizes dependency on stratospheric balloons unless the intended destination is an aircraft"
+    },
+    {
+        "id": "163",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "For a smart city service, ensure traffic signal control traffic uses dedicated and redundant slices that avoid fate sharing"
+    },
+    {
+        "id": "164",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "When interface utilization exceeds a specific threshold, emit an alert"
+    },
+    {
+        "id": "165",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Configure a VPN with a tunnel from A to B over path P"
+    },
+    {
+        "id": "166",
+        "title": "Intent-Based Networking - Concepts and Definitions",
+        "DIO/URL": "https://www.rfc-editor.org/rfc/rfc9315",
+        "intent expression": "Deny traffic to prefix P1 unless it is traffic from prefix P2"
+    },
+    {
+        "id": "167",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "customer wants to watch 1080p highdefinition video"
+    },
+    {
+        "id": "168",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "For all traffic flows that need NFV service chaining, restrict the maximum load of any VNF node / container below 50% and the maximum load of any network link below 70%"
+    },
+    {
+        "id": "169",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "for any end user of this application, the arrival time of hologram objects of all the remote tele-presenters should be synchronized within 50 ms to reach the destination viewer for each conversation session"
+    },
+    {
+        "id": "170",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "request gold VPN service between sites A, B, and C"
+    },
+    {
+        "id": "171",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "provide CE redundancy for the customer sites"
+    },
+    {
+        "id": "172",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "add access rules to the network service"
+    },
+    {
+        "id": "173",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "provide simple customer APIs for value-added services (operators)"
+    },
+    {
+        "id": "174",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "be informed if the network or service is not behaving as requested"
+    },
+    {
+        "id": "175",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "enable automatic optimization and correction for selected scenarios"
+    },
+    {
+        "id": "176",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Always maintain a high quality of service and high bandwidth for gold-level subscribers"
+    },
+    {
+        "id": "177",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Measure the network congestion status, give different adaptive parameters to stations of different priority"
+    },
+    {
+        "id": "178",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request reliable service during peak traffic periods for video-type apps"
+    },
+    {
+        "id": "179",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request network service with delay guarantee for access customer A"
+    },
+    {
+        "id": "180",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request high priority queuing for traffic of class A"
+    },
+    {
+        "id": "181",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request migration of all services in network N to backup path P"
+    },
+    {
+        "id": "182",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Ensure the load on any link in the network is not higher than 50%"
+    },
+    {
+        "id": "183",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Provide service S with guaranteed bandwidth for customer A"
+    },
+    {
+        "id": "184",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Provide network guarantees in terms of security, low latency, and high bandwidth"
+    },
+    {
+        "id": "185",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Update service operator portal platforms and their software regularly"
+    },
+    {
+        "id": "186",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Move services from network operator 1 to network operator 2"
+    },
+    {
+        "id": "187",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request network service guarantee to avoid network congestion during special periods such as Black Friday and Christmas"
+    },
+    {
+        "id": "188",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request network to watch HD video (4K/8K)"
+    },
+    {
+        "id": "189",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request network service, monitoring, and traffic grooming"
+    },
+    {
+        "id": "190",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request network resource configurations"
+    },
+    {
+        "id": "191",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request server migrations"
+    },
+    {
+        "id": "192",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to design network load-balancing strategies during peak times"
+    },
+    {
+        "id": "193",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request GPU computing and storage resources to meet 10k video surveillance services"
+    },
+    {
+        "id": "194",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request dynamic computing and storage resources of the service in special and daily times"
+    },
+    {
+        "id": "195",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request connectivity between VMs A, B, and C in network N1"
+    },
+    {
+        "id": "196",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request automatic life-cycle management of VM cloud resources"
+    },
+    {
+        "id": "197",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request upgrade operating system to version X on all VMs in network N1"
+    },
+    {
+        "id": "198",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "In case of emergency, automatically migrate all cloud resources to DC2"
+    },
+    {
+        "id": "199",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request underlay service between DC1 and DC2 with bandwidth B"
+    },
+    {
+        "id": "200",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Establish and allocate DHCP address pool"
+    },
+    {
+        "id": "201",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request automatic rapid detection of device failures and pre-alarm correlation"
+    },
+    {
+        "id": "202",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "For all traffic flows that need NFV service chaining, restrict the maximum load of any VNF node/ container below 50% and the maximum load of any network link below 70%"
+    },
+    {
+        "id": "203",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request configuration of VMs or DB Servers"
+    },
+    {
+        "id": "204",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request automatic life-cycle management of cloud resources"
+    },
+    {
+        "id": "205",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request real-time monitoring of device condition"
+    },
+    {
+        "id": "206",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request dynamic management of IPv4 address pool resources"
+    },
+    {
+        "id": "207",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request automatic rapid detection of device failures and pre-alarm correlation"
+    },
+    {
+        "id": "208",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API to request load-balancing thresholds"
+    },
+    {
+        "id": "209",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request access to VPN service"
+    },
+    {
+        "id": "210",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request video conference between end user A and B"
+    },
+    {
+        "id": "211",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Create a video conference type for a weekly meeting"
+    },
+    {
+        "id": "212",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "For any end user of application X, the arrival of hologram objects of all the remote tele-presenters should be synchronized within 50 ms to reach the destination viewer for each conversation session"
+    },
+    {
+        "id": "213",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Create management VPN connectivity for type of service A"
+    },
+    {
+        "id": "214",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Configure switches in campus network 1 to prioritize traffic of type A"
+    },
+    {
+        "id": "215",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Configure YouTube as business non-relevant"
+    },
+    {
+        "id": "216",
+        "title": " Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "Request network security automated tasks such as web filtering and DDoS cloud protection"
+    },
+    {
+        "id": "217",
+        "title": "Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "In case of emergency, automatically shift all traffic of type A through network N"
+    },
+    {
+        "id": "218",
+        "title": "Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API for request to open a VPN service"
+    },
+    {
+        "id": "219",
+        "title": "Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API for request network bandwidth and latency for hosting a video conference"
+    },
+    {
+        "id": "220",
+        "title": "Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API for requesting network device configuration"
+    },
+    {
+        "id": "221",
+        "title": "Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API for requesting automatic monitoring and interception for network security"
+    },
+    {
+        "id": "222",
+        "title": "Intent Classification",
+        "DIO/URL": "https://doi.org/10.17487/RFC9316",
+        "intent expression": "API for strategy intent in case of emergencies"
+    },
+    {
+        "id": "223",
+        "title": "Intent-driven autonomous networks",
+        "DIO/URL": "https://www.g6gconference.com/index/Lists/index.html?id=9",
+        "intent expression": "During the World Cup, it is necessary to ensure that the sports event client can be viewed smoothly"
+    },
+    {
+        "id": "224",
+        "title": "Intent-driven autonomous networks",
+        "DIO/URL": "https://www.g6gconference.com/index/Lists/index.html?id=9",
+        "intent expression": "Set a minimum bandwidth of 30Mbps from the lab to the conference room"
+    },
+    {
+        "id": "225",
+        "title": "Intent-driven autonomous networks",
+        "DIO/URL": "https://www.g6gconference.com/index/Lists/index.html?id=9",
+        "intent expression": "I need to lease a line from Campus A to Cloud 2,maximum 8G bandwidth."
+    },
+    {
+        "id": "226",
+        "title": "Intent-driven autonomous networks",
+        "DIO/URL": "https://www.g6gconference.com/index/Lists/index.html?id=9",
+        "intent expression": "For high-level users, when the bandwidth usage exceeds 80%, the system automatically expands the bandwidth by 60% to ensure user experience. In addition, when the traffic recovers (30% utilization), the service bandwidth is restored to 1G."
+    },
+    {
+        "id": "227",
+        "title": "Intent-driven autonomous networks",
+        "DIO/URL": "https://www.g6gconference.com/index/Lists/index.html?id=9",
+        "intent expression": "Make calls between cell phones and walkie-talkies"
+    },
+    {
+        "id": "228",
+        "title": "Intent-driven autonomous networks",
+        "DIO/URL": "https://www.g6gconference.com/index/Lists/index.html?id=9",
+        "intent expression": "Example Change the destination network of outgoing port eth1 to 192.168.168.0"
+    },
+    {
+        "id": "229",
+        "title": "Knowledge-defined intent network",
+        "DIO/URL": "https://xsb.bupt.edu.cn/",
+        "intent expression": "A router that connects home and school"
+    },
+    {
+        "id": "230",
+        "title": "Knowledge-defined intent network",
+        "DIO/URL": "https://xsb.bupt.edu.cn/",
+        "intent expression": "Set the bandwidth of the laboratory and meeting room to 30Mbps"
+    },
+    {
+        "id": "231",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Start VoLTE service for the downtown business district"
+    },
+    {
+        "id": "232",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Deploy and enable the VoLTE service for the school zone"
+    },
+    {
+        "id": "233",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Earthquake early warning service is the highest priority in the whole network"
+    },
+    {
+        "id": "234",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Hongji stations in urban suburbs and rural areas are set to consume no more than 200 kWh per day"
+    },
+    {
+        "id": "235",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Small micro-base stations deployed in urban central business districts have an average daily energy consumption of no more than 50 kWh"
+    },
+    {
+        "id": "236",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "In \"rural and remote areas\", the QoE of \"broadband access services\" was promoted to \"3.8 points or above\""
+    },
+    {
+        "id": "237",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "At \"public transport hubs such as airports, train stations and subway stations\", ensure that the QoE of \"instant messaging business\" reaches \"4.3 points or above\"."
+    },
+    {
+        "id": "238",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "In the \"famous tourist scenic area\", the QoE of the maintenance of \"mobile communication business\" is \"above 4.2 points\""
+    },
+    {
+        "id": "239",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "In the \"high-tech enterprise Park\", ensure that the QoE of the \"cloud office business\" is not less than \"4 points\""
+    },
+    {
+        "id": "240",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "In the \"city Center entertainment district\", ensure that the QoE of the \"video streaming business\" is maintained at \"4.5 points or above\"."
+    },
+    {
+        "id": "241",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "In core business and residential districts of major cities, the goal is to increase 5G users' DOU to \"20GB or more."
+    },
+    {
+        "id": "242",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/2.html",
+        "intent expression": "For technology parks, high-tech development zones, and other innovation hubs, the target is for 5G users' DOU to reach \"18GB or more.\""
+    },
+    {
+        "id": "243",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/3.html",
+        "intent expression": "In emerging cities and markets with growth potential, the objective is to raise 5G users' DOU to \"15GB or more.\""
+    },
+    {
+        "id": "244",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/4.html",
+        "intent expression": "Deployment of 5G networks in rural and remote areas may lag behind, but growth targets for DOU can be set, such as \"5GB or more,\" to encourage network service providers to gradually expand coverage and improve service quality."
+    },
+    {
+        "id": "245",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Globally, for certain regions of special status or strategic significance, such as international metropolises, free trade zones, etc., higher DOU targets can be set, like \"30GB or more.\""
+    },
+    {
+        "id": "246",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Enable the energy saving function of the base station in downtown business district"
+    },
+    {
+        "id": "247",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Enable the energy saving function of the base station in Enterprise park"
+    },
+    {
+        "id": "248",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Enable the energy saving function of the base station in school area"
+    },
+    {
+        "id": "249",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Disable the energy saving function of the base station in Enterprise park"
+    },
+    {
+        "id": "250",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Disable the energy saving function of the base station in school area"
+    },
+    {
+        "id": "251",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Disable the energy saving function of the base station in downtown business district"
+    },
+    {
+        "id": "252",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn off the air conditioning system of 5G base station in Enterprise park"
+    },
+    {
+        "id": "253",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn off the air conditioning system of 5G base station in downtown business district"
+    },
+    {
+        "id": "254",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn off the air conditioning system of 5G base station in school area"
+    },
+    {
+        "id": "255",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn off the air conditioning system of 5G base station in tourist scenic area"
+    },
+    {
+        "id": "256",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn on the air conditioning system of 5G base station in Enterprise park"
+    },
+    {
+        "id": "257",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn on the air conditioning system of 5G base station in downtown business district"
+    },
+    {
+        "id": "258",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn on the air conditioning system of 5G base station in school area"
+    },
+    {
+        "id": "259",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Turn on the air conditioning system of 5G base station in tourist scenic area"
+    },
+    {
+        "id": "260",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Require 5G coverage density higher than 30% in industrial parks and smart manufacturing bases to support critical applications such as industrial automation, remote monitoring, and real-time data analytics"
+    },
+    {
+        "id": "261",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Maintain 5G coverage density of at least 30% in large sports stadiums, music festivals, exhibitions, and other event venues to ensure smooth live streaming, interactive participation, and sharing of exciting moments for attendees"
+    },
+    {
+        "id": "262",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure 5G coverage density exceeding 30% in university towns or higher education campuses to support remote education, high-speed data transmission for research, and online collaboration"
+    },
+    {
+        "id": "263",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Maintain 5G coverage density of no less than 30% in major transportation hubs such as airports, train stations, and subway stations to meet travelers' demand for high-speed network connectivity"
+    },
+    {
+        "id": "264",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Promote 5G infrastructure construction to ensure that at least 30% of residents have access to 5G coverage and density, thereby improving residents' quality of life."
+    },
+    {
+        "id": "265",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Central Business Districts: Ensure 5G coverage density reaches over 30% to enhance mobile network experience for customers and employees."
+    },
+    {
+        "id": "266",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure that 5G base stations in downtown business districts have a daily average power consumption of no more than 500 kWh"
+    },
+    {
+        "id": "267",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure that 5G base stations in rural areas have a daily average power consumption of no more than 100 kWh"
+    },
+    {
+        "id": "268",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure that 5G base stations in tourist attractions have a daily average power consumption of no more than 400 kWh"
+    },
+    {
+        "id": "269",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure that 5G base stations in residential areas have a daily average power consumption of no more than 200 kWh"
+    },
+    {
+        "id": "270",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure that 5G base stations in smart manufacturing industrial parks have a daily average power consumption of no more than 800 kWh"
+    },
+    {
+        "id": "271",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure that 5G base stations on university campuses have a daily average power consumption of no more than 300 kWh"
+    },
+    {
+        "id": "272",
+        "title": "Intention-led wireless network self-intelligent planning",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/6-cn/5/1.html",
+        "intent expression": "Ensure that 5G base stations in downtown business districts have a daily average power consumption of no more than 500 kWh"
+    },
+    {
+        "id": "273",
+        "title": "Intent-driven SDN network intelligence",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/11-cn/5/_.html",
+        "intent expression": "2.6G planning 1000 macro stations, 50 rooms"
+    },
+    {
+        "id": "274",
+        "title": "Intent-driven SDN network intelligence",
+        "DIO/URL": "https://www.zte.com.cn/china/about/magazine/zte-technologies/2022/11-cn/5/_.html",
+        "intent expression": "2.6G planning 1000 macro stations, 50 rooms, and RSRP coverage reached 95%"
+    }
+]
